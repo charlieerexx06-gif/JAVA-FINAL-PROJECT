@@ -1,0 +1,12 @@
+Booking ID: B101
+Student Name: r hasan
+Student ID: 256466
+Course: oop
+Faculty Name: sadman
+Faculty ID: F101
+Date: 5/11/2026
+Time: 10;30
+Consultation Type: Offline
+------------------------------
+Status: DECLINED
+------------------------------
